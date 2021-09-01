@@ -34,3 +34,4 @@ coins show in the upper right corner. (picture of gold coins represent coins)
 3. When you complete two levels, characters in mario will appear to congratulate you (pop out .gif).
 4. The theme of pictures in the game are unanimous (by Mario), including characters, backgrounds, boxes and walls, etc.(遊戲裡圖片主題一致)  
 5. Use images in label to represent steps, coins and scores. (Footprints pic, gold coins pic and star pic)  
+
