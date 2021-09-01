@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>project 2 pic/box.jpg</file>
+        <file>project 2 pic/wall.jpg</file>
+        <file>project 2 pic/restart.jpg</file>
+        <file>project 2 pic/coin.png</file>
+        <file>project 2 pic/steps.png</file>
+        <file>project 2 pic/pass_gif.gif</file>
+        <file>project 2 pic/position.png</file>
+        <file>project 2 pic/point.png</file>
+        <file>project 2 pic/King_koopa.png</file>
+        <file>project 2 pic/Boos.png</file>
+        <file>project 2 pic/Goomba.png</file>
+        <file>project 2 pic/Koopa.png</file>
+        <file>project 2 pic/Toad.png</file>
+        <file>project 2 pic/Yoshi.png</file>
+        <file>project 2 pic/sky.png</file>
+        <file>project 2 pic/ground.png</file>
+        <file>project 2 pic/snow.png</file>
+    </qresource>
+</RCC>
