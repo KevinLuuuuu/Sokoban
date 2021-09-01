@@ -1,7 +1,10 @@
-# 2020-pd2-sokoban
+# Sokoban
+
 ## Video link
   
 https://youtu.be/EfhB1Sci8mw  
+
+<img src="https://i.imgur.com/yawikj1.png" alt="alt text" width="400" height="400">
   
 ## How to play
  
